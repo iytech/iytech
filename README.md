@@ -1,7 +1,7 @@
 
 
  <h1>
-Hey there
+Hey, there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 
@@ -30,13 +30,13 @@ Hey there
 I am a Full Stack Developer <img src="https://media.giphy.com/media/3JXHcH0P03IxIbDOW1/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💡 fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
+- 🌱 I’m currently learning and working with JavaScript, Reactjs, Flutter, and Nodejs.
 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/3JXHcH0P03Ix
 
 - 📫 You can [view my resume](https://www.credly.com/users/yunusa-ismaila) and contact me by emailing yunusismaila@gmail.com.
 
-- :mailbox:How to reach me: [Linkedin](https://www.linkedin.com/in/iypro)
+- :mailbox:How to reach me: [Linkedin](linkedin.com/in/mriy)
 
 ---
 
